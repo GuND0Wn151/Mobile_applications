@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="list_view">
+        <item> Java</item>
+        <item> Python</item>
+        <item> C</item>
+        <item> C++</item>
+        <item> Javascript</item>
+        <item> C#</item>
+        <item> Ruby</item>
+        <item> PHP</item>
+        <item> Golang</item>
+    </string-array>
+</resources>
